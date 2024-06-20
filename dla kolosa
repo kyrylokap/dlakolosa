@@ -1,0 +1,20 @@
+//chat webowy,serverhandler,clienthandler,server,client
+                                                  https://github.com/umcspro/chatserver
+//zaleznosci dla spring boot
+zeby dzialalo @OTO musze miec controller
+                                                  https://start.spring.io
+
+//aplikacja z powtorzenia
+                                                  https://github.com/umcspro/eegclientserver
+//zaleznosci dla testow junit
+
+ <dependency>
+ <groupId>org.junit.jupiter</groupId>
+ <artifactId>junit-jupiter-api</artifactId>
+ <version>5.10.2</version>
+ <scope>test</scope>
+ </dependency>
+//zmienic port
+   https://stackoverflow.com/questions/21083170/how-to-configure-port-for-a-spring-boot-application
+
+   
