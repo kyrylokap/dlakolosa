@@ -1,4 +1,4 @@
-//chat webowy,serverhandler,clienthandler,server,client
+//chat webowy,clienthandler,server
                                                   https://github.com/umcspro/chatserver
 //zaleznosci dla spring boot
 zeby dzialalo @OTO musze miec controller
